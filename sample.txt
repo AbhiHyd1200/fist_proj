@@ -1,5 +1,8 @@
 Hello World
 My name Abhinav
 My name is Amul
+<<<<<<< HEAD
 m1
 m2
+=======
+>>>>>>> d3b39c396a29777ccc2416c9607a4aad9b83d0dd
